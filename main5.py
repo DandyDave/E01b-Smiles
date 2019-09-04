@@ -4,9 +4,9 @@ import utils, open_color, arcade
 
 utils.check_version((3,7))
 
-SCREEN_WIDTH = 800
-SCREEN_HEIGHT = 600
-SCREEN_TITLE = "Smiley Face Example"
+SCREEN_WIDTH = 800 
+SCREEN_HEIGHT = 600 
+SCREEN_TITLE = "Smiley Face Example" 
 
 class Faces(arcade.Window):
     """ Our custom Window Class"""
